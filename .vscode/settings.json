@@ -1,0 +1,9 @@
+{
+    "python.linting.flake8Enabled": false,
+    "python.linting.pep8Enabled": true,
+    "python.linting.enabled": true,
+    "python.linting.pylintArgs": [
+        "--disable-msg=C0103"
+    ],
+    "python.pythonPath": "C:\\Users\\JangLiu\\AppData\\Local\\Programs\\Python\\Python36\\python.exe",
+}
